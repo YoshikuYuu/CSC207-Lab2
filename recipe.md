@@ -5,6 +5,7 @@
 - 1 3/4 cups granulated sugar
 - 3/4 cup unsweetened cocoa powder
 - 1/2 tsp ground cinnamon
+- 1 tsp matcha powder
 - ...
 
 ## Instructions:
@@ -14,5 +15,6 @@
 
 ## Additional Directions by Bob:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
+5. Add a tablespoon of matcha powder for matcha flavoring
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
